@@ -1,0 +1,32 @@
+{
+  "term": "Summer",
+  "year": "2027",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-site-2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-site-2"
+  },
+  "course_title": "sdfsdf",
+  "hide_download": false,
+  "course_description": "sdfsdf",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "111",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-site-2"
+  },
+  "learning_resource_types": [],
+  "site_uid": "11066212-90ab-46e4-909c-306ccc31f126",
+  "site_short_id": "new-site-2"
+}
